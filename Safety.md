@@ -43,7 +43,7 @@ Pull requests that change hardware, wiring, firmware or motor control must
 explain the safety impact and how the change was tested.
 
 ## Reporting a safety problem
-Contact [your contact method] privately, or open an issue labelled `safety`
+Contact [newfoundland679@gmail.com] privately, or open an issue labelled `safety`
 if the problem is not sensitive. If someone is hurt, get medical help first.
 
 ## No warranty
