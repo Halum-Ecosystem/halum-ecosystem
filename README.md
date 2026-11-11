@@ -62,7 +62,7 @@ Halum is still in its infancy, and we are designing the first projects now, so t
 
 - **Join the conversation** in [Discussions](https://github.com/Halum-Ecosystem/halum-ecosystem/discussions): introduce yourself, share ideas, or show what you are working on.
 - **Report a problem or suggest a change** in the Issues of the project it concerns. Use this hub's [Issues](https://github.com/Halum-Ecosystem/halum-ecosystem/issues) for anything about Halum as a whole.
-- **Contribute:** a contributing guide is coming soon.
+- **Contribute:** the [contributing guide](https://github.com/Halum-Ecosystem/.github/blob/main/CONTRIBUTING.md) explains how.
 
 ## Safety
 
@@ -75,4 +75,4 @@ Each project sets out its own licence:
 - [halum-platform](https://github.com/Halum-Ecosystem/halum-platform): Apache-2.0.
 - [halum-prosthetic-hand](https://github.com/Halum-Ecosystem/halum-prosthetic-hand): CERN-OHL-S-2.0 for hardware designs, Apache-2.0 for firmware and software.
 
-The documents in this hub will be licensed under CC-BY-4.0.
+The documents in this hub are licensed under CC-BY-4.0 (see [LICENSE](LICENSE)).
