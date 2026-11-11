@@ -1,5 +1,5 @@
 [submodule "halum-platform"]
-	path = halum-platform
+	path = projects/platform
 	url = https://github.com/Halum-Ecosystem/halum-platform.git
 [submodule "projects/hand"]
 	path = projects/hand
