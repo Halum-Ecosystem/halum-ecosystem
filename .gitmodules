@@ -1,0 +1,6 @@
+[submodule "halum-platform"]
+	path = halum-platform
+	url = https://github.com/Halum-Ecosystem/halum-platform.git
+[submodule "projects/hand"]
+	path = projects/hand
+	url = https://github.com/Halum-Ecosystem/halum-prosthetic-hand.git
